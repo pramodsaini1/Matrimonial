@@ -11,4 +11,8 @@
 <img src="Screenshot (111).png" class="img-fluid"><br><br>
 <img src="Screenshot (112).png" class="img-fluid"><br><br>
 
+# Register Page
+<img src="Screenshot (103).png" class="img-fluid"><br><br>
+
+
 
