@@ -16,4 +16,20 @@
 
 # Login Page
 <img src="Screenshot (114).png" class="img-fluid"><br><br>
+# View Profile Page
+<img src="Screenshot (115).png" class="img-fluid"><br><br>
+# Edit Page
+<img src="Screenshot (117).png" class="img-fluid"><br><br>
+# Change Password Page
+<img src="Screenshot (118).png" class="img-fluid"><br><br>
+# Search Page
+<img src="Screenshot (119).png" class="img-fluid"><br><br>
+# Search after profile Page
+<img src="Screenshot (120).png" class="img-fluid"><br><br>
+
+# Message Page
+<img src="Screenshot (121).png" class="img-fluid"><br><br>
+
+# Inbox Page
+<img src="Screenshot (122).png" class="img-fluid"><br><br>
 
