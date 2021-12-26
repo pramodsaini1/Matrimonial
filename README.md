@@ -12,7 +12,8 @@
 <img src="Screenshot (112).png" class="img-fluid"><br><br>
 
 # Register Page
-<img src="Screenshot (103).png" class="img-fluid"><br><br>
+<img src="Screenshot (113).png" class="img-fluid"><br><br>
 
-
+# Login Page
+<img src="Screenshot (114).png" class="img-fluid"><br><br>
 
